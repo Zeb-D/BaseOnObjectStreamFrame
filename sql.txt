@@ -1,0 +1,2 @@
+create table t_user (username varchar(20) ,password varchar(20));
+ insert into t_user values('lin','lin');
